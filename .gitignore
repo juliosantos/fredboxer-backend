@@ -1,3 +1,4 @@
 # vim files
 .*.sw?
 .DS_Store
+log/*
